@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <folder>Images</folder>
+  <file_name>000000.jpg</file_name>
+  <path>VOC2007/JPEGImages/000000.png</path>
+  <size>
+    <width>1242</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <track_id>0</track_id>
+    <type>Van</type>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>296.744956</xmin>
+      <ymin>161.752147</ymin>
+      <xmax>455.226042</xmax>
+      <ymax>292.37280400000003</ymax>
+    </bndbox>
+  </object>
+</annotation>
